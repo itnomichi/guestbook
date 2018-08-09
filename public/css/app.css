@@ -1,0 +1,60 @@
+body {
+    font-size: 14px;
+}
+
+.koi {
+    margin: 25px 0;
+}
+
+.tio {
+    text-align: right;
+}
+
+.geg {
+    text-align: center;
+}
+
+.kao {
+    border-top: 1px solid #ddd;
+    margin: 10px 0;
+}
+
+.uip {
+    font-size: 20px;
+    margin-bottom: 25px;
+}
+
+.cls {
+    list-style: none;
+    padding-left: 0;
+}
+
+.cls li {
+    padding-bottom: 30px;
+    border-bottom: 1px solid #EEE;
+    margin-bottom: 30px;
+}
+
+.jkn {
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.oio {
+    margin-top: 0;
+    line-height: 1.75em;
+}
+
+.tuv, .arx {
+    border: 1px solid #ddd;
+    margin-right: 5px;
+    padding: 12px;
+    width: 100%;
+    font-size: 14px;
+    color: #222;
+    margin-bottom: 10px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    -webkit-appearance: none;
+}
