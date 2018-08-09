@@ -1,6 +1,7 @@
 ## GuestBook
 
 REQUIREMENTS 
+- PHP : 7
 - Web server: LAMP
 - SQL database server: MySQL
 
